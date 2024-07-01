@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Header](https://github.com/mariiantonova/mariiantonova/blob/main/assets/video.gif)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 <!--
 **mariiantonova/mariiantonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
