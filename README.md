@@ -2,6 +2,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+![](https://raw.githubusercontent.com/mariiantonova/mariiantonova/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **mariiantonova/mariiantonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
