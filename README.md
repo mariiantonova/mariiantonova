@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Maria 👋
+
+![Profile_views](https://komarev.com/ghpvc/?username=mariiantonova&color=blue&style=plastic)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
